@@ -1,5 +1,6 @@
 ### Hi there, My name is Saroj Bhattarai and I am a Python Developer at Honest Forwarder FZE,Dubai.
-
+- 🔭 I’m currently working on Python /Scrapy / Selenium/ django/ Natural Language Processing.
+- 🌱 I’m currently learning  advance concept of Machine Learning and Deep Learning.
 
 
 <!--

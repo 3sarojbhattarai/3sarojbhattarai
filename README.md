@@ -1,5 +1,7 @@
-### Hi there, My name is Saroj Bhattarai and I am a Software Engineer at Cloudchomp Inc.
+### Hi there, I am Saroj Bhattarai and currently working as a Backend Engineer at Resimator Oy.
 - 🔭 I’m currently working on Python /Flask / Postgres / AWS Services.
+- 🌱 I’m currently learning Javascript and React framework.
+
 
 
 <!--

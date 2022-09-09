@@ -2,7 +2,11 @@
 - 🔭 I’m currently working on Python /Flask / Postgres / AWS Services.
 - 🌱 I’m currently learning Javascript and React framework.
 
-
+### All Profiles
+- [Personal site](https://www.twitter.com/3sarojbhattarai)  
+- [Leetcode](https://www.leetcode.com/3sarojbhattarai)  
+- [Twitter](https://www.twitter.com/3sarojbhattarai)  
+- [LinkedIn](https://www.linkedin.com/in/3sarojbhattarai/)
 
 ### Contact
 Feel free to contact me through [twitter](https://www.twitter.com/3sarojbhattarai), [LinkedIn](https://www.linkedin.com/in/3sarojbhattarai/) or privately message me through [mail](mailto:sarojbhattarai2053@gmail.com) . I really enjoyed talking with people.

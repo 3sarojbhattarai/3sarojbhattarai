@@ -1,6 +1,5 @@
-### Hi there, I am Saroj Bhattarai and currently working as a Backend Engineer at Resimator Oy.
-- 🔭 I’m currently working on Python /Flask / Postgres / AWS Services.
-- 🌱 I’m currently learning Javascript and React framework.
+### Hi there, 
+I am Saroj Bhattarai and currently working as a Senior Software Engineer at [Logpoint](https://www.logpoint.com/en/).
 
 ### All Profiles
 - [Personal site](https://www.twitter.com/3sarojbhattarai)  
@@ -9,7 +8,7 @@
 - [LinkedIn](https://www.linkedin.com/in/3sarojbhattarai/)
 
 ### Contact
-Feel free to contact me through [twitter](https://www.twitter.com/3sarojbhattarai), [LinkedIn](https://www.linkedin.com/in/3sarojbhattarai/) or privately message me through [mail](mailto:sarojbhattarai2053@gmail.com) . I really enjoyed talking with people.
+Feel free to contact me through [twitter](https://www.twitter.com/3sarojbhattarai), [LinkedIn](https://www.linkedin.com/in/3sarojbhattarai/) or privately message me through [mail](mailto:3sarojbhattarai@gmail.com) . I really enjoyed talking with people.
 
 
 
